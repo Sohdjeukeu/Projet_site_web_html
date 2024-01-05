@@ -1,0 +1,116 @@
+body{
+    margin: 30px 20px;
+}
+#cadre_principal{
+    height: 900px;
+    
+    margin:auto;
+    border-style: solid;
+    background-color:orange;
+    font-size: x-large;
+          
+}
+    
+
+
+#haut{
+    background-color: burlywood;
+    height: 170px;
+    border:5px solid;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    }
+#imagedehautgauche{
+    height:100%;
+    width: 19.5%;
+    float: left;
+}
+#imagedehautdroite
+{
+    height:100%;
+    width:19.5%;
+    float: right;
+}
+#barreGauche{
+    height:900px;
+    width: 250px;
+    background-color: brown;
+    float:left;
+
+}
+#barre_de_bas{
+    height: 170px;
+    border:5px solid;
+    border-top-left-radius:25px;
+    border-top-right-radius: 25px;
+    background-color: burlywood;
+    margin-top: 10px;
+}
+#imagedebasgauche{
+    height:100%;
+    width: 20%;
+    float:left
+}
+#imagedebasdroite{
+    height: 100%;
+    width: 20%;
+    float: right;
+}
+  ul.liste1nonordonnée{
+      list-style-type: circle;
+      list-style-position:inside;
+}
+ul.liste2nonordonnée{
+
+    list-style-position:  inside;
+}
+ol.liste1ordonnée{
+      list-style-position:inside;
+}
+
+#Présentation{
+    margin:1.5em 1em 1em 11em;
+}
+#trait{
+    width:75%;height:10px; border:none;background-color:black;color:black;
+    text-align:center;
+}
+h3{
+    text-align: center;
+}
+h6.balise_6{
+    font-style:x-large;
+   
+}
+#barreGauche a {
+    margin-top: 30%;
+    margin-left: 5%;
+    border:5px solid;
+    border-radius:8px;
+    width: 90%;
+    text-align: center;
+    display:block;
+    font-size: 1em;
+    font-weight: bold;
+    color:black;
+    text-decoration: none;
+}
+
+#barreGauche a:hover{
+    box-shadow: 5px 5px 5px;
+}
+ol.romain{
+    list-style-type: lower-roman;
+}
+
+    
+
+
+
+
+
+
+
+
+
+    

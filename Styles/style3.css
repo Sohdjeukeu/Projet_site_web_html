@@ -1,0 +1,184 @@
+body{
+    background-color:black;
+   
+    
+}
+header
+{
+    height: 175px;
+    background-color:orange;
+    margin-top:0.5em;
+    padding-top: 1px;
+    
+}
+#imageheader{
+    height: 172px;
+    width: 185px;
+}
+
+h3.c1{
+    text-align: center;
+       }
+
+
+nav{
+    height:958px;
+    width: 13%;
+    background-color:red;
+    float:left;
+    }
+
+aside{
+    height: 950px;
+    width: 13%;
+    background-color:red;
+    float: right;
+}
+
+article{
+    height: 950px;
+    background-image:url("../Images/imagechargement.jpg");
+    background-image: no-repeat;
+    margin-top: -15px;
+    margin-bottom:-15px;
+}
+
+
+ p.principe{
+    font-size:x-large;
+    color:black;
+    font-weight:bold; 
+    text-align: justify;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+h3{
+    text-align:right;
+}
+
+
+footer{
+    height: 175px;
+    background-color:orange;
+}
+#imageheader{
+    margin-top: -14em;
+    margin-bottom: 1.8em;
+    
+}
+
+
+
+   
+
+p.receptionp{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+}
+
+#stockage_des_pneus{
+    text-align: center;
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size:xx-large;
+}
+#article1{
+    color:black;
+    font-size: x-large;
+    font-weight: bold;
+    text-align:justify;
+    line-height: 30px;
+    font-family:'Times New Roman', Times, serif
+    
+}
+#Livraison_des_pneus{
+    color:red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size:xx-large; 
+}
+#article2{
+    color:black;
+    font-size: x-large;
+    font-weight:bold;
+    text-align: justify;
+    line-height: 30px;
+    }
+
+ p.contacter{
+     color:black;
+     font-size: 1.2em;
+     font-weight: bold;
+     text-decoration: none;
+     
+ }
+
+ p.pneus1{
+     color:black;
+     font-size: 1.2em;
+     font-weight: bold;
+     text-decoration: none;
+ }
+ p.Livraison{
+     color:black;
+     font-size: 1.2em;
+     font-weight: bold;
+ }
+
+ #imagefooter{
+     height:175px;
+     width: 190px;
+     margin-top:-7em;
+     margin-bottom: 2em;
+     float:left;
+}
+iframe{
+    float: right;
+    margin-top: -7.5em;
+    margin-bottom: 1.8em;
+   }
+
+#couleur_de_principe{
+    background-color: yellow;
+
+}
+#couleur_de_article1{
+    background-color: yellow;
+}
+nav  p{
+      border:13px ridge white;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 35%;
+    text-align: center;
+    text-decoration:none;
+    display: block;
+}
+#distribution_et{
+    width:500px;
+    height: 120px;
+    border:8px dashed black;
+    margin:auto;
+   padding-top: 20px;
+   background-color: red;
+  
+}
+
+nav a p:hover{
+    box-shadow: 8px 8px 8px;
+}
+#couleur_de_article2{
+    background-color: yellow;
+}
+strong{
+     color:black;
+     font-size: x-large;
+     font-family: 'Times New Roman', Times, serif;
+    
+}
